@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Eric David Smith",
+    "label": "Father / Musician / Hacker",
+    "picture": "http://erictherobot.com/content/images/2014/12/Screen-Shot-2014-12-16-at-1-02-15-AM.png",
+    "email": "erictherobot@gmail.com",
+    "phone": "(347) 471-0386",
+    "website": "http://erictherobot.com",
+    "summary": "Experienced startup Engineer looking for a new opportunity in 2015; previously built software at Stickybits, Totsy, Etsy and more.",
+    "location": {
+      "address": "179 Maujer Street, Apartment #3L",
+      "postalCode": "NY 11211",
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "erictherobot",
+        "url": "https://twitter.com/erictherobot"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "Eric The Robot",
+        "url": "https://soundcloud.com/melodymeetsme"
+      },
+      {
+        "network": "Github",
+        "username": "Eric The Robot",
+        "url": "https://github.com/erictherobot"
+      },
+      {
+        "network": "Facebook",
+        "username": "Eric The Robot",
+        "url": "https://facebook.com/erictherobot"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Soundfly, Inc.",
+      "position": "CTO",
+      "website": "http://soundfly.com",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-09",
+      "summary": "Soundfly helps anyone anywhere become a musician. Created by a diverse and experienced team of musicians and educators, we're building a series of engaging + interactive courses that will allow aspiring musicians to improve their art and find their sound. From learning piano to booking your next tour, you can learn what you need to know to meet your musical goals.",
+      "highlights": [
+        "- Architected entire codebase and data structures.",
+        "- Wrote and performed Unit, Integration, Smoke, Regression, and Acceptance tests.",
+        "- Created multiple variations of educational gaming interactions.",
+        "- Setup and managed security and infrastructure on Amazon EC2 / Digital Ocean.",
+        "- Wrote and maintained node modules.",
+        "- Wrote several custom AngularJS Directives.",
+        "- Assisted production team with manual content publication.",
+        "- Setup communication protocols and tools to help create a more fluid and transparent workflow.",
+        "- Worked on several open source Web Based (HTML5) Audio / MIDI technologies to create additional products, engagement, and growth strategies.",
+        "- Studied analytics and made data-driven decisions.",
+        "- Assisted in many best practices and product decisions."
+      ]
+    },
+    {
+      "company": "Bagsly, Inc.",
+      "position": "Founder / CEO",
+      "website": "https://bagsly.com",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Bagsly is the world's first peer-to-peer handbag and purse rental marketplace",
+      "highlights": [
+        "- Architected entire codebase and data structures."
+      ]
+    },
+    {
+      "company": "MommyCoach, Inc",
+      "position": "CTO",
+      "website": "http://mommycoach.com",
+      "startDate": "2013-10-01",
+      "endDate": "2014-04-01",
+      "summary": "Parentify.co (formerly MommyCoach) is the first live video coaching and counseling platform connecting moms with questions and challenges to experts who have solutions. We are making expert consultations affordable, convenient and efficient to all parents, when they need it, where they need it.",
+      "highlights": [
+        "- Managed a team of three developers.",
+        "- Prototyped products and features using node.js, mongodb, jade, express.js, angular.js.",
+        "- Worked on WEBRTC implementation prototypes.",
+        "- Setup infrastructure on Amazon EC2. Managed all code development from end-to-end.",
+        "- Worked on front-end SEO/SEM campaigns.",
+        "- Studied analytics and made data-driven decisions.",
+        "- White labeled existing website for a major corporation.",
+        "- Architected entire codebase and data structures.",
+        "- Worked on making platform mobile ready / responsive design."
+      ]
+    },
+    {
+      "company": "Artspace Marketplace, Inc",
+      "position": "Software Engineer",
+      "website": "http://artspace.com",
+      "startDate": "2013-07-01",
+      "endDate": "2013-10-01",
+      "summary": "Parentify.co (formerly MommyCoach) is the first live video coaching and counseling platform connecting moms with questions and challenges to experts who have solutions. We are making expert consultations affordable, convenient and efficient to all parents, when they need it, where they need it.",
+      "highlights": [
+        "- Created smarter Artist sorting and scrolling system using backbone.js and underscore.js.",
+        "- Worked on Django / Python.",
+        "- Implemented Twitter Bootstrap into custom legacy CSS to leverage modern rapid prototyping.",
+        "- Developed new on-boarding tools."
+      ]
+    },
+    {
+      "company": "Totsy, Inc",
+      "position": "Senior Front End Engineer",
+      "website": "http://totsy.com",
+      "startDate": "2010-09-01",
+      "endDate": "2013-05-01",
+      "summary": "Parentify.co (formerly MommyCoach) is the first live video coaching and counseling platform connecting moms with questions and challenges to experts who have solutions. We are making expert consultations affordable, convenient and efficient to all parents, when they need it, where they need it.",
+      "highlights": [
+        "- First front end web developer + third engineer hired.",
+        "- Hired and managed other Front-end web developers.",
+        "- Worked closely with CMO and marketing department to launch campaigns, setup integrations, and affiliate marketing campaigns.",
+        "- Helped grow the company and culture from 20 employees to 150+.",
+        "- Created and managed entire mobile web platform.",
+        "- Ported MongoDB, lithiumPHP over to Magento, MYSQL.",
+        "- Studied analytics and made data driven decisions.",
+        "- Launched User testing campaigns and introduced A/B testing.",
+        "- Made several UI/UX decisions resulting in success."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "McNally Smith College of Music",
+      "area": "Recording Engineering / Producing",
+      "studyType": "Bachelor",
+      "startDate": "2000-06-01",
+      "endDate": "2002-06-01",
+      "gpa": "3.7"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Recording",
+        "Producing",
+        "Songwriting"
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "Open source",
+        "Hackathons",
+        "Weekend Projects"
+      ]
+    }
+  ]
+}
