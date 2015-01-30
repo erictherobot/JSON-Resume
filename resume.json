@@ -121,6 +121,23 @@
         "- Launched User testing campaigns and introduced A/B testing.",
         "- Made several UI/UX decisions resulting in success."
       ]
+    },
+    {
+      "company": "Etsy, Inc",
+      "position": "UI Developer",
+      "website": "http://etsy.com",
+      "startDate": "2007-07-01",
+      "endDate": "2009-01-01",
+      "summary": "Etsy is a marketplace where people around the world connect, both online and offline, to make, sell and buy unique goods.",
+      "highlights": [
+        "- in 2007 I transitioned from html tables to divs",
+        "- in 2007 introduced analytics and value of data driven decisions",
+        "- worked closely with Rob Kalin (CEO) on product design & development",
+        "- worked on optimizing seller pages SEO and saw an incredible gain in traffic",
+        "- coded html, css, javascript",
+        "- studied internal search behavior",
+        "- organized bowling events :)"
+      ]
     }
   ],
   "education": [
